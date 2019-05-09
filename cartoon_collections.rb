@@ -1,6 +1,6 @@
 def roll_call_dwarves(dwarfs)# code an argument here
   # Your code here
-  return roll_call_dwarves
+  p roll_call_dwarves
 end
 
 def summon_captain_planet# code an argument here
